@@ -3,10 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulshankumar09&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshankumar09&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" height="150" />
-
   <img src="https://streak-stats.demolab.com?user=gulshankumar09&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </div>
 
